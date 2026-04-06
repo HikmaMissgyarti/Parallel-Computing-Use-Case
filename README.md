@@ -28,4 +28,4 @@ Tetapi tiap proses mengerjakan **gambar yang berbeda**.
 ```bash
 pip install -r requirements.txt
 2. Jalankan program:
-python data_parallelism_brightness.py
+```python data_parallelism_brightness.py
