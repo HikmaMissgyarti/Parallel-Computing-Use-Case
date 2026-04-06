@@ -27,6 +27,7 @@ Tetapi tiap proses mengerjakan **gambar yang berbeda**.
 1. Install library:
 ```bash
 pip install -r requirements.txt
+
 2. Jalankan program:
 ```bash
 python data_parallelism_brightness.py
